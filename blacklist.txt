@@ -1,4 +1,0 @@
-{
-   "DESKTOP-RQLDL2J":"true",
-   "DESKTOP-HLDNV6B":"true"
-}
