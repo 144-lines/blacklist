@@ -1,7 +1,7 @@
 {
    "blacklist":{
       "DESKTOP-RQLDL2J":"",
-      "DESKTOP-HLDNV6B":"",
+      "DESKTOP-HLDNV6B":"test",
       "DESKTOP-R8MI3EB":""
    },
    "whitelist":{
